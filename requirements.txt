@@ -44,7 +44,7 @@ google==3.0.0
 google-auth==2.6.2
 google-auth-oauthlib==0.4.6
 google-pasta==0.2.0
-grpcio==1.44.0
+grpcio==1.53.0
 h11==0.13.0
 h5py==3.6.0
 httpcore==0.12.3
